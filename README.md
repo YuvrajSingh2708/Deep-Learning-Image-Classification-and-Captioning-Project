@@ -20,6 +20,6 @@ The project aims to provide a practical exploration of deep learning techniques 
 5. Modify the code as needed for experimentation or adaptation to other datasets.
 
 ## Contributors
-- Shrichand Bhuria 
+- Yuvraj Singh
 
 Feel free to explore the notebooks and experiment with the provided code to understand and apply deep learning techniques for image classification and captioning tasks. If you encounter any issues or have suggestions for improvement, please feel free to contribute or reach out to the project contributors.
